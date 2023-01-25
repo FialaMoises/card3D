@@ -10,6 +10,5 @@ O card é um elemento visual comum em interfaces de usuário que geralmente cont
 
 -   [ ] HTML.
 -   [ ] CSS.
--   [ ] Bootstrap.
 -   [ ] JavaScript.
 
